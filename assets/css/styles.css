@@ -1,0 +1,8 @@
+header label{
+    width: 20%;
+    min-width: 80px;
+}
+
+header .form-control  {
+    width: 35%;
+}
